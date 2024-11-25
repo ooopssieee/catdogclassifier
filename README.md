@@ -1,4 +1,4 @@
-# CatDog Classifier
+# Cat Dog Classifier
 
 A refined classifier designed to distinguish between cats and dogs, built with PyTorch and fine-tuned on the ResNet-50 architecture. Optimized for inference using Apple's Metal Performance Shaders (MPS), it efficiently leverages macOS hardware acceleration for superior performance. For environments without Apple Silicon, the model seamlessly supports inference on CUDA-enabled devices, ensuring versatility across platforms.
 
