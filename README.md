@@ -45,8 +45,8 @@ For a full list of dependencies, refer to the `environment.yml` file.
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/catdog-classifier.git
-   cd catdog-classifier
+   git clone https://github.com/ooopssieee/catdogclassifier.git
+   cd catdogclassifier
 
 2. **Create the conda environment**
     conda env create -f environment.yml
